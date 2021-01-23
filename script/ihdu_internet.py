@@ -1,9 +1,9 @@
 '''
-Author: your name
+Author: JuncFang
 Date: 2021-01-23 17:20:04
-LastEditTime: 2021-01-23 20:16:47
-LastEditors: Please set LastEditors
-Description: In User Settings Edit
+LastEditTime: 2021-01-23 20:45:58
+LastEditors: JuncFang
+Description: 
 FilePath: \EasyScript\script\ihdu_internet.py
 '''
 
